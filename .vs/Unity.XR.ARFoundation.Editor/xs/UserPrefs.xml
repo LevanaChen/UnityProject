@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{CDFA004F-269F-983D-DDCE-81EC1EF60C67}|">
+  <MonoDevelop.Ide.ItemProperties.Unity.XR.ARFoundation.Editor PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
