@@ -60,7 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ARSessionVerification.cs" />
+    <Compile Include="Assets\Scripts\ARSessionVerification.cs" />
     <Reference Include="Unity.XR.FaceSubsystem">
       <HintPath>/Users/levana/Projects/ARFoundationTest/Library/ScriptAssemblies/Unity.XR.FaceSubsystem.dll</HintPath>
     </Reference>

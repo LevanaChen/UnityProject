@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{F14C6F88-AA91-EA04-0FDB-DB0DDFAA1DDA}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARSubsystemManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ARSessionVerification.cs">
     <Files>
-      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARSession.cs" Line="70" Column="26" />
-      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARSubsystemManager.cs" Line="455" Column="88" />
-      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARSubsystemUtil.cs" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARSession.cs" Line="60" Column="45" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARSubsystemManager.cs" Line="521" Column="29" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARSubsystemUtil.cs" Line="181" Column="29" />
+      <File FileName="Assets/Scripts/ARSessionVerification.cs" Line="22" Column="102" />
+      <File FileName="Library/PackageCache/com.unity.xr.arcore@1.0.0-preview.24/Runtime/ARCoreApi.cs" Line="8" Column="8" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARPlaneManager.cs" Line="132" Column="48" />
+      <File FileName="Library/PackageCache/com.unity.xr.arcore@1.0.0-preview.24/Runtime/ARCoreSessionExtension.cs" Line="5" Column="35" />
+      <File FileName="Library/PackageCache/com.unity.xr.arcore@1.0.0-preview.24/Editor/ARCoreSettings.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
